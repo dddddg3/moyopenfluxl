@@ -1,0 +1,1 @@
+${{ secrets.YANDEX_DOC_URL }}
